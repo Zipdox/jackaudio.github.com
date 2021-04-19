@@ -338,6 +338,8 @@ title:  "Applications"
 
   * [**Allegro**](http://alleg.sourceforge.net/)
     a game programming library.
+  * [**Audify.js**](https://www.npmjs.com/package/audify)
+    is a NodeJS module for realtime audio input/output with JACK and other APIs using the RtAudio library.
   * [**Clam**](http://clam-project.org/)
     is a multiplatform software framework for
     research and application development for the Audio and Music domains.
